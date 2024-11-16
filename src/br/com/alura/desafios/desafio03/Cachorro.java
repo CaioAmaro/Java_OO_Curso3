@@ -1,4 +1,5 @@
 package br.com.alura.desafios.desafio03;
 
-public class Cachorro {
+public class Cachorro extends Animal{
+
 }
